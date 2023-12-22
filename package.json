@@ -1,0 +1,18 @@
+{
+  "name": "test-vite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "zenghaifeng <3270937741@qq.com>",
+  "license": "MIT",
+  "script": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "lodash-es": "^4.17.21"
+  },
+  "devDependencies": {
+    "vite": "^5.0.10"
+
+  }
+}
