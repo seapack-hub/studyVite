@@ -1,3 +1,8 @@
-export default {
-
-}
+import { defineConfig } from 'vite';
+export default defineConfig({
+    optimizeDeps: {
+        include: [],
+    },
+    css:{},
+    plugins:[]
+})

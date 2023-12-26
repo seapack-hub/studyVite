@@ -4,7 +4,7 @@
   "main": "index.js",
   "author": "zenghaifeng <3270937741@qq.com>",
   "license": "MIT",
-  "script": {
+  "scripts": {
     "dev": "vite"
   },
   "dependencies": {
@@ -13,6 +13,5 @@
   },
   "devDependencies": {
     "vite": "^5.0.10"
-
   }
 }
