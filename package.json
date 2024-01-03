@@ -5,7 +5,8 @@
   "author": "zenghaifeng <3270937741@qq.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "vite"
+    "dev": "vite",
+    "build": "vite build"
   },
   "dependencies": {
     "lodash": "^4.17.21",
