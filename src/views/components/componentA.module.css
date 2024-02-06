@@ -1,0 +1,10 @@
+.footer{
+    width: 200px;
+    height: 40px;
+    background: blue;
+    margin-top: 10px;
+}
+
+.footer-name{
+    background: blueviolet;
+}
