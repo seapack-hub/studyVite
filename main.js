@@ -9,3 +9,6 @@ import "./index.css"
 //引入componentsA.js
 import "./src/views/components/componentsA.js"
 import "./src/views/components/componentsB.js"
+
+//引入less文件
+import "./src/views/preprocessorOptions/index.module.less"

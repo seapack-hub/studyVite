@@ -10,6 +10,12 @@ export default defineConfig({
             globalModulePaths:[],
             hashPrefix:'hello',
             generateScopedName:"[name]_[local]_[hash:5]"
+        },
+        preprocessorOptions:{
+            //整个的配置对象都会给到less 的执行参数（全局参数）中去
+            less:{
+                math:"always"
+            }
         }
     },
     plugins:[],

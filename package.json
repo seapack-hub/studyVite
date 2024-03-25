@@ -9,10 +9,11 @@
     "build": "vite build"
   },
   "dependencies": {
+    "less": "^4.2.0",
     "lodash": "^4.17.21",
     "lodash-es": "^4.17.21"
   },
   "devDependencies": {
-    "vite": "^5.0.10"
+    "vite": "^5.2.2"
   }
 }
